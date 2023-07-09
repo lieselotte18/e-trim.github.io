@@ -371,12 +371,12 @@ footer1 {
 }
 
 footer {
-  background-color: blue;
+  background-color: #1e56a0;
   color: white;
   padding: 20px;
   text-align: center;
   position: relative;
-  margin-top: 100px; /* Ubah angka sesuai kebutuhan */
+  margin-top: 100px;
 }
 
 footer h3 > span,
