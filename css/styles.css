@@ -371,7 +371,7 @@ footer {
   position: relative;
   margin-top: 100px;
 }
-footer footerbook {
+.footerbook {
   position: absolute;
   text-align: center;
   background-color: #1e56a0;
