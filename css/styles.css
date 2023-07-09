@@ -377,6 +377,6 @@ footer h3 > a {
   color: white;
   text-decoration: none;
   font-weight: 500;
-  margin: 0 auto;
+  padding-bottom: 10px;
   bottom: 0;
 }
