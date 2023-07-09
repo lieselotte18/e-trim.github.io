@@ -363,6 +363,10 @@ textarea {
   }
 }
 /* Footer */
+.black-space {
+  height: 200px;
+}
+
 footer {
   background-color: #1e56a0;
   color: white;
