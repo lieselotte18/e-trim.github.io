@@ -364,13 +364,13 @@ textarea {
 }
 /* Footer */
 footer {
+  position: absolute;
   padding: 20px;
   text-align: center;
   background-color: #1e56a0;
   margin-top: 20px;
   width: 100%;
   bottom: 0;
-  position: absolute;
 }
 
 footer h3 > span,
