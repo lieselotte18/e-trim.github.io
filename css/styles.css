@@ -363,6 +363,13 @@ textarea {
   }
 }
 /* Footer */
+footer1 {
+  text-align: center;
+  background-color: #1e56a0;
+  width: 100%;
+  bottom: 0;
+}
+
 footer {
   position: absolute;
   text-align: center;
